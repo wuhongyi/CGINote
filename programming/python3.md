@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 六 4月 21 16:22:16 2018 (+0800)
-;; Last-Updated: 六 4月 21 17:05:16 2018 (+0800)
+;; Last-Updated: 六 4月 21 17:19:34 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 3
+;;     Update #: 4
 ;; URL: http://wuhongyi.cn -->
 
 # python3
@@ -692,7 +692,7 @@ HTML设置上传文件的表单需要设置 enctype 属性为 **multipart/form-d
 
 *save_file.py*脚本文件代码如下：
 
-``python
+```python
 #!/usr/bin/python3
 
 import cgi, os
