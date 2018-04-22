@@ -4,14 +4,15 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 六 4月 21 14:38:35 2018 (+0800)
-;; Last-Updated: 六 4月 21 15:09:58 2018 (+0800)
+;; Last-Updated: 六 4月 21 20:22:13 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 2
+;;     Update #: 3
 ;; URL: http://wuhongyi.cn -->
 
 # c++
 
 > http://www.runoob.com/cplusplus/cpp-web-programming.html
+> http://www.yolinux.com/TUTORIALS/LinuxTutorialC++CGI.html
 
 ----
 
